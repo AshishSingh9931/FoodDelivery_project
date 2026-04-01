@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://fooddelivery-project-1.onrender.com";
 
 const MyOrders = () => {
 
