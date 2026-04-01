@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { FaBox, FaPlus, FaList, FaTrash, FaEdit } from "react-icons/fa";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://fooddelivery-project-1.onrender.com";
 
 const AdminDashboard = () => {
 
