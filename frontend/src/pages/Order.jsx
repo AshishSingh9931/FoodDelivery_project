@@ -4,7 +4,7 @@ import { FaHome, FaMapMarkerAlt } from "react-icons/fa";
 import { useNavigate } from "react-router-dom";
 import axios from "axios";
 
-const API_URL = "http://localhost:5000";
+const API_URL = "https://fooddelivery-project-1.onrender.com";
 
 const Order = () => {
 
